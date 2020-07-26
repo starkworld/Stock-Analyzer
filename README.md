@@ -6,15 +6,15 @@ Amassment analysts (a.k.a. market research analysts) help companies and organiza
 In the present system all data is maintained across ledgers and files. Data is often mismanaged and this leads to data inconsistencies and losses. It is often difficult to search for the desired information quickly. It is also difficult to access and update the information.
 Amassment Analyst is an online software application which fulfills the requirement of a typical Stock Analysis in various godowns. It provides the interface to users in a graphical way to manage the daily transactions as well as historical data. Also provides the management reports like monthly inwards, monthly deliveries and monthly returns. This application maintains the centralized database so that any changes done at a location reflects immediately. This is an online tool so more than one user can login into system and use the tool simultaneously.
 
-The System is proposed to have the following modules: \n
-Employee module \n
+**The System is proposed to have the following modules: 
+Employee module
 Inwards module
 Deliveries module
 Returns module
 Administrator module
-Reports module
+Reports module**
 
-Web Presentation	               :	HTML5, CSS3 
+**Web Presentation	               :	HTML5, CSS3 
 Client – side Scripting	   :	JavaScript, Angular JS
 Programming Language        :	Java
 Web based Technologies       :	Servlets, JSP  
