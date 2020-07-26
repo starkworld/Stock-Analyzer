@@ -1,0 +1,64 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Deliveries Report</TITLE>
+<LINK href="styles.css" type="text/css" rel="stylesheet">
+
+<link rel="stylesheet" href="./js/jquery-ui.css"></link>
+<link rel="stylesheet" href="./js/style.css"></link>
+<script src="./js/jquery-1.11.1.js" type="text/javascript"></script>
+<script src="./js/jquery-ui.js" type="text/javascript"></script>
+<script LANGUAGE="Javascript" SRC="Images/calender.js"></script>
+<script language="Javascript" src="Images/validate.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("#startDate").datepicker({
+			dateFormat : 'yy-mm-dd'
+		});
+		$("#endDate").datepicker({
+			dateFormat : 'yy-mm-dd'
+		});
+	});
+</script>
+</HEAD>
+
+<BODY Class=SC>
+	<!-- To display Menu --Start -->
+	<script language="JavaScript1.2" src="coolfunctions.js"></script>
+	<script language="JavaScript1.2" src="coolmenus.js"></script>
+	<!-- To display Menu --End -->
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<H2 align=center>Deliveries Report</H2>
+
+	<center>
+
+		<form name=calform action="SalesReport.jsp"
+			onsubmit="return Validate()">
+			<Table width="40%" align=center>
+				<TR class="row_odd">
+					<Td><B>Start Date *</B></Td>
+					<TD><input type=text name="Start" size=15 id="startDate" /></TD>
+				</TR>
+				<TR class="row_even">
+					<Td><B>End Date *</B></Td>
+					<TD><input type=text name="End" size=15 id="endDate" /></TD>
+				<TR class="row_odd">
+					<Td><B>GodownID *</B></Td>
+					<td><input type="text" name="GodownID" size=5 /><input
+						type="button" value="Show Godowns"
+						onclick="fnEmpPopUp('Godownslists.jsp',300,300)"></td>
+				<TR>
+					<TD align=center><INPUT TYPE="submit" id=SUB
+						Value="Get Results"></TD>
+					<TD align=center><INPUT id='RES' TYPE="RESET"
+						onclick="location.reload()"></TD>
+				</TR>
+			</TABLE>
+		</form>
+	</center>

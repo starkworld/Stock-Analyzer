@@ -1,0 +1,55 @@
+
+
+<html>
+<HEAD>
+	<LINK href="styles.css" type="text/css" rel="stylesheet">
+    <script language="Javascript" src="Images/validate.js"></script>
+
+
+</HEAD>
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function Validate()
+{
+	var GodownID="", Location="",CapacityinQuintals="",GodownManager="",Quantity="";
+	var Obj = document.NewGodownForm;
+	GodownID = Obj.GodownID.value;
+	if(GodownID=="" || GodownID==null) 
+	{
+		alert("GodownID is mandatory");
+		Obj.GodownID.focus();
+		return false;
+	}
+return true;
+}
+//-->
+</SCRIPT>
+<BODY class=SC> 
+<!-- To display Menu --Start -->
+<script language="JavaScript1.2" src="coolfunctions.js"></script>
+<script language="JavaScript1.2" src="coolmenus.js"></script>
+<br><br><br>
+<!-- To display Menu --End -->
+<h3 align=Center>View Godown Details</h3>
+
+		<form method=post name="NewGodownForm" action="GodownReport.jsp" onsubmit = "return Validate();">
+		<table align=center>
+		<TR class=row_odd >
+			<td>Godown ID </td>
+			<td><input type="text" name="GodownID" size=5><input type="button" value="Show Godowns" onclick="fnEmpPopUp('Godownslists.jsp',300,300)"></td>
+		</TR>
+		
+		<TR class=row_even  ALIGN="CENTER">
+			<td><input type="submit" Value="Get Info"></td>
+			<td><input type="reset" Value="Clear"></td>
+		</tr>
+		
+		</table>
+		
+		</form>
+
+
+
+
+
+

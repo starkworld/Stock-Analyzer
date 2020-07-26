@@ -1,0 +1,25 @@
+				HARDWARE AND SOFTWARE REQUIREMENTS
+	SOFTWARE REQUIREMENTS:
+        Operating System		: Windows
+        Technology			: Java and J2EE
+        Web Technologies		: Html, JavaScript, CSS
+        IDE				: My Eclipse
+        Web Server			: Tomcat
+        Database			: My SQL
+        Java Version			: J2SDK1.6	
+                  
+ 	HARDWARE REQUIREMENTS: 
+
+	Pentium processor     		:	512 MHZ
+	RAM Capacity          		:     	1 GB 
+	Hard Disk 			:	20GB 
+	CD-ROM Drive         		:       32 HZ
+	Keyboard	           	:    	108 Standard
+	Mouse				:	Optical
+	Monitor				:	15’’ Color Monitor
+
+	Additional Tools:
+
+	HTML Designing                  : Dream weaver Tool
+        Development Tool kit            : My Eclipse
+
