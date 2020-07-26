@@ -24,4 +24,4 @@ Backend Database	               :	MySQL
 Operating System	               :	Windows 7/8/10, LINUX
 Web Server		               : 	Tomcat 8
 Browser			   :	IE/Mozilla/Chrome
-IDE			               :	Eclipse
+IDE			               :	Eclipse**
