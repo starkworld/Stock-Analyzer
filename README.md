@@ -29,3 +29,19 @@ The application host server: https://localhost
 * Web Server		                      : Tomcat 8
 * Browser			                        :	IE/Mozilla/Chrome
 * IDE			                            :	Eclipse
+
+
+### HARDWARE REQUIREMENTS: 
+
+  * Pentium processor     		:	512 MHZ
+	* RAM Capacity          		:     	1 GB 
+	* Hard Disk 			:	20GB 
+	* CD-ROM Drive         		:       32 HZ
+	* Keyboard	           	:    	108 Standard
+	* Mouse				:	Optical
+	* Monitor				:	15íí Color Monitor
+
+	* Additional Tools:
+
+	      * HTML Designing                  : Dream weaver Tool
+        * Development Tool kit            : My Eclipse
