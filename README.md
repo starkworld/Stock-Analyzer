@@ -32,16 +32,15 @@ The application host server: https://localhost
 
 
 ### HARDWARE REQUIREMENTS: 
-
-  * Pentium processor     		:	512 MHZ
-	* RAM Capacity          		:     	1 GB 
+* Pentium processor     		:	512 MHZ
+	* RAM Capacity          	:     	1 GB 
 	* Hard Disk 			:	20GB 
 	* CD-ROM Drive         		:       32 HZ
 	* Keyboard	           	:    	108 Standard
 	* Mouse				:	Optical
-	* Monitor				:	15íí Color Monitor
+	* Moniter			:	15íí Color Monitor
 
-	* Additional Tools:
+* Additional Tools:
 
-	      * HTML Designing                  : Dream weaver Tool
+	* HTML Designing                  : Dream weaver Tool
         * Development Tool kit            : My Eclipse
