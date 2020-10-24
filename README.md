@@ -46,7 +46,8 @@ The application host server: https://localhost
         * Development Tool kit            : My Eclipse
 	
 ### Project Visualzation:
-![Alt text]()
-![Alt text]()
-![Alt text]()
-![Alt text]()
+![Alt text](https://github.com/starkworld/Stock-Analyzer/blob/master/Images/Screen%20Shot%202020-10-24%20at%202.05.17%20AM.png)
+![Alt text](https://github.com/starkworld/Stock-Analyzer/blob/master/Images/Screen%20Shot%202020-10-24%20at%202.05.29%20AM.png)
+![Alt text](https://github.com/starkworld/Stock-Analyzer/blob/master/Images/Screen%20Shot%202020-10-24%20at%202.05.57%20AM.png)
+![Alt text](https://github.com/starkworld/Stock-Analyzer/blob/master/Images/Screen%20Shot%202020-10-24%20at%202.06.12%20AM.png)
+![Alt text](https://github.com/starkworld/Stock-Analyzer/blob/master/Images/Screen%20Shot%202020-10-24%20at%202.07.20%20AM.png)
